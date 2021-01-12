@@ -1,0 +1,5 @@
+saludar ()>
+	print("Hola")
+
+saludar ()
+
