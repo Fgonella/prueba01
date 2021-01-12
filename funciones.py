@@ -1,5 +1,5 @@
-saludar (nombre)>
-	print("Hola",nombre)
+def saludar (nombre,apellido):
+	print("Hola: ",nombre, apellido)
 
-saludar ()
+saludar ("Juan", "Perez")
 
